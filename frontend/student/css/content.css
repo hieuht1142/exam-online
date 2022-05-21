@@ -1,0 +1,30 @@
+.body {
+    padding: 0 20px;
+    color: #343a40;
+}
+
+.body .title {
+    padding: 25px;
+    border: 2px solid var(--border-color2);
+    margin: 20px 0;
+    border-radius: 6px;
+}
+
+.body .title .title-home {
+    font-size: 31px;
+    margin-bottom: 10px;
+}
+
+.content .main-content {
+    margin: 0 0 15px 15px;
+    border: 1px solid var(--border-color2);
+    border-radius: 3px;
+    padding: 30px 18px;
+}
+
+.content .main-content .main-content-title {
+    /* margin: 0 18px; */
+    padding-bottom: 15px;
+    font-size: 20px;
+    border-bottom: 1px solid var(--border-color2);
+}
